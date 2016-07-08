@@ -17,7 +17,7 @@ Directed Acyclic Graph:
           
         1       3       (assume connections are 2->1 and 2->3)
         
-You need to gives the framework 
+You need to give the framework 
 
 1) list of nodes (i.e., [1,2,3])
 
