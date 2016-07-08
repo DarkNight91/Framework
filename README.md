@@ -17,9 +17,8 @@ Directed Acyclic Graph:
           
         1       3       (assume connections are 2->1 and 2->3)
         
-You need to gives the framework 1) list of nodes, i.e., [1,2,3] 2) list of connections, i.e., [[2,1], [2,3]]
+You need to gives the framework 1) list of nodes (i.e., [1,2,3])         2) list of connections (i.e., [[2,1], [2,3]])
 
 The framework will give you the scheduled result: [2, [1,3]]
-
 
 (For adjacency list please refer 1. [wiki](https://en.wikipedia.org/wiki/Adjacency_list) 2. [igraph](http://igraph.org/redirect.html))
